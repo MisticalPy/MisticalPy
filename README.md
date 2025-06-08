@@ -14,7 +14,6 @@ I am interested in web development, the development of bots and scripts in pytho
 
 🤝  I'm open to collaborating on Projects related to microservice architecture and RestAPI applications
 
-<details align="left">
   <summary><h2><b>📚 My stack</b></h2></summary>
   <p>
     <h3>Langs</h3>
@@ -25,6 +24,5 @@ I am interested in web development, the development of bots and scripts in pytho
     <img src="https://skillicons.dev/icons?i=visualstudio,idea,neovim,postman,ultimate&perline=7" />
     <br>
   </p>
-</details>
 
 
