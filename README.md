@@ -17,7 +17,7 @@ I am interested in web development, the development of bots and scripts in pytho
 <h2><b>📚 My stack</b></h2>
 <p>
     <h3>Langs</h3>
-    <img src="https://skillicons.dev/icons?i=dotnet,py,html,css,postgres,sqlite&perline=7" />
+    <img src="https://skillicons.dev/icons?i=py,html,css,js,postgres,sqlite&perline=7" />
     <h3>Frameworks / Tools</h3>
     <img src="https://skillicons.dev/icons?i=unity,gradle,spring,linux,hibernate,githubactions,django,docker,git,bootstrap&perline=7" />
     <h3>Software</h3>
