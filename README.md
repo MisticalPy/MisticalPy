@@ -12,6 +12,8 @@ I'm a backend developer from Russia, working at freelance.
 
 I am interested in web development, the development of bots and scripts in python.
 
+🤝  I'm open to collaborating on Projects related to microservice architecture and RestAPI applications
+
 <details align="left">
   <summary><h2><b>📚 My stack</b></h2></summary>
   <p>
