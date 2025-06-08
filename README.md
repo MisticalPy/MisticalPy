@@ -8,12 +8,9 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)]([https://tlgg.ru/BaggerFast](https://t.me/MisticalPy_blog))
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/c/baggerfast)
 
-I'm a backend developer from Russia, working at [@VladStandard](https://github.com/VladStandard) / [@Elixor](https://github.com/ElixorTeam).
+I'm a backend developer from Russia, working at freelance.
 
-I'm interested in web development and games. Also, I hate JavaScript💀
-
-## 🙏 Visit my website
-[BaggerFast's docs](https://baggerfast.github.io/BaggerFast) - Here I post helpful IT manuals. They can be used as references
+I am interested in web development, the development of bots and scripts in python.
 
 <details align="left">
   <summary><h2><b>📚 My stack</b></h2></summary>
@@ -29,11 +26,3 @@ I'm interested in web development and games. Also, I hate JavaScript💀
 </details>
 
 
-<details align="left">
-  <summary><h2><b>⭐GitHub stats</b></h2></summary>
-  <p>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaggerFast&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
-   <br>
-   <img src="https://github-readme-stats.vercel.app/api?username=BaggerFast&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
-  </p>
-</details>
