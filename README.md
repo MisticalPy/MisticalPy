@@ -21,7 +21,7 @@ I am interested in web development, the development of bots and scripts in pytho
     <h3>Frameworks / Tools</h3>
     <img src="https://skillicons.dev/icons?i=unity,gradle,spring,linux,hibernate,githubactions,django,docker,git,bootstrap&perline=7" />
     <h3>Software</h3>
-    <img src="https://skillicons.dev/icons?i=visualstudio,idea,neovim,postman,ultimate&perline=7" />
+    <img src="https://skillicons.dev/icons?i=visualstudio code,pycharm,neovim,postman,ultimate&perline=7" />
     <br>
 </p>
 
