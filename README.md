@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello! I'm MisticalPy </h1>
 
 <p align="center">
- <img width="600" src="[assets/github-snake.svg](https://github.com/BaggerFast/BaggerFast/blob/28443d47abb8fcc0c3e48df1b0b1b93423fb5920/assets/github-snake.svg)" alt="snake"/>
+ <img width="600" src="https://github.com/BaggerFast/BaggerFast/blob/28443d47abb8fcc0c3e48df1b0b1b93423fb5920/assets/github-snake.svg" alt="snake"/>
 </p>
 
 ## About me
